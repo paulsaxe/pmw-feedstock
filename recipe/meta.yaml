@@ -15,11 +15,11 @@ source:
     - Pmw_2_0_1-py36.patch
 
 build:
-  number: 1003
+  number: 1004
   script: python setup.py install --record record.txt
 
 requirements:
-  build:
+  host:
     - python
     - setuptools
   run:

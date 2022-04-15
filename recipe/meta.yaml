@@ -15,7 +15,7 @@ source:
     - Pmw_2_0_1-py36.patch
 
 build:
-  number: 1004
+  number: 1005
   script: python setup.py install --record record.txt
 
 requirements:

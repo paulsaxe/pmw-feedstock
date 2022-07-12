@@ -5,8 +5,8 @@ index d996d22..0df9b2a 100644
 @@ -1,6 +1,6 @@
  #!/usr/bin/env python
  # setup.py
--from setuptools import setup
-+from distutils.core import setup
+-from distutils.core import setup
++from setuptools import setup
  import sys
  if sys.version_info[0]<3:
      version='2.0.1' # really '1.3.3'

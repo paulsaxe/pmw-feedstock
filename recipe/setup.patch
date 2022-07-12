@@ -1,11 +1,12 @@
-diff -r c3342449eb60 setup.py
---- a/setup.py	Wed Jun 22 09:54:17 2022 +0300
-+++ b/setup.py	Tue Jul 12 09:35:48 2022 -0700
+diff --git a/setup.py b/setup.py
+index d996d22..0df9b2a 100644
+--- a/setup.py
++++ b/setup.py
 @@ -1,6 +1,6 @@
  #!/usr/bin/env python
  # setup.py
--from distutils.core import setup
-+from setuptools import setup
+-from setuptools import setup
++from distutils.core import setup
  import sys
  if sys.version_info[0]<3:
      version='2.0.1' # really '1.3.3'

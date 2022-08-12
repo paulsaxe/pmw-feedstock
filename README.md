@@ -38,13 +38,6 @@ Current build status
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_python3.7.____73_pypypython_implpypy</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=linux&configuration=linux_64_python3.7.____73_pypypython_implpypy" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
               <td>linux_64_python3.7.____cpythonpython_implcpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
@@ -52,10 +45,24 @@ Current build status
                 </a>
               </td>
             </tr><tr>
+              <td>linux_64_python3.8.____73_pypypython_implpypy</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=linux&configuration=linux_64_python3.8.____73_pypypython_implpypy" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
               <td>linux_64_python3.8.____cpythonpython_implcpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=linux&configuration=linux_64_python3.8.____cpythonpython_implcpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_python3.9.____73_pypypython_implpypy</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=linux&configuration=linux_64_python3.9.____73_pypypython_implpypy" alt="variant">
                 </a>
               </td>
             </tr><tr>
@@ -73,13 +80,6 @@ Current build status
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_python3.7.____73_pypypython_implpypy</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_python3.7.____73_pypypython_implpypy" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
               <td>linux_aarch64_python3.7.____cpythonpython_implcpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
@@ -87,10 +87,24 @@ Current build status
                 </a>
               </td>
             </tr><tr>
+              <td>linux_aarch64_python3.8.____73_pypypython_implpypy</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_python3.8.____73_pypypython_implpypy" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
               <td>linux_aarch64_python3.8.____cpythonpython_implcpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_python3.8.____cpythonpython_implcpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_aarch64_python3.9.____73_pypypython_implpypy</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_python3.9.____73_pypypython_implpypy" alt="variant">
                 </a>
               </td>
             </tr><tr>
@@ -108,13 +122,6 @@ Current build status
                 </a>
               </td>
             </tr><tr>
-              <td>linux_ppc64le_python3.7.____73_pypypython_implpypy</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_python3.7.____73_pypypython_implpypy" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
               <td>linux_ppc64le_python3.7.____cpythonpython_implcpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
@@ -122,10 +129,24 @@ Current build status
                 </a>
               </td>
             </tr><tr>
+              <td>linux_ppc64le_python3.8.____73_pypypython_implpypy</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_python3.8.____73_pypypython_implpypy" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
               <td>linux_ppc64le_python3.8.____cpythonpython_implcpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_python3.8.____cpythonpython_implcpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_ppc64le_python3.9.____73_pypypython_implpypy</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_python3.9.____73_pypypython_implpypy" alt="variant">
                 </a>
               </td>
             </tr><tr>
@@ -143,13 +164,6 @@ Current build status
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_python3.7.____73_pypypython_implpypy</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=osx&configuration=osx_64_python3.7.____73_pypypython_implpypy" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
               <td>osx_64_python3.7.____cpythonpython_implcpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
@@ -157,10 +171,24 @@ Current build status
                 </a>
               </td>
             </tr><tr>
+              <td>osx_64_python3.8.____73_pypypython_implpypy</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=osx&configuration=osx_64_python3.8.____73_pypypython_implpypy" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
               <td>osx_64_python3.8.____cpythonpython_implcpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=osx&configuration=osx_64_python3.8.____cpythonpython_implcpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_python3.9.____73_pypypython_implpypy</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=osx&configuration=osx_64_python3.9.____73_pypypython_implpypy" alt="variant">
                 </a>
               </td>
             </tr><tr>
@@ -199,13 +227,6 @@ Current build status
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_python3.7.____73_pypypython_implpypy</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=win&configuration=win_64_python3.7.____73_pypypython_implpypy" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
               <td>win_64_python3.7.____cpythonpython_implcpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
@@ -213,10 +234,24 @@ Current build status
                 </a>
               </td>
             </tr><tr>
+              <td>win_64_python3.8.____73_pypypython_implpypy</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=win&configuration=win_64_python3.8.____73_pypypython_implpypy" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
               <td>win_64_python3.8.____cpythonpython_implcpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=win&configuration=win_64_python3.8.____cpythonpython_implcpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_python3.9.____73_pypypython_implpypy</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=792&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pmw-feedstock?branchName=main&jobName=win&configuration=win_64_python3.9.____73_pypypython_implpypy" alt="variant">
                 </a>
               </td>
             </tr><tr>

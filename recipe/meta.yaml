@@ -14,7 +14,7 @@ source:
     - setup.patch
 
 build:
-  number: 1007
+  number: 1008
   script: "{{ PYTHON }} -m pip install . -vv"
 
 requirements:

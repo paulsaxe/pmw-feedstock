@@ -1,6 +1,6 @@
 {% set name = "Pmw" %}
-{% set version = "2.0.1" %}
-{% set sha256 = "0b9d28f52755a7a081b44591c3dd912054f896e56c9a627db4dd228306ad1120" %}
+{% set version = "2.1.1" %}
+{% set sha256 = "948412457cfccf0c775dd08e0913fb00f90896a33c79737d571c7312aeaf55c6" %}
 
 package:
   name: {{ name|lower }}
